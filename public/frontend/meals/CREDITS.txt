@@ -1,0 +1,12 @@
+Meal photos sourced from Wikimedia Commons (CC0 / Public Domain - no attribution required).
+
+avocado-toast-poached-eggs.jpg | CC0 | https://commons.wikimedia.org/wiki/File:Avocado_%26_Egg_Smash_-_Trading_Post_Coffee_Roasters_2026-06-19.jpg
+greek-yogurt-berry-parfait.jpg | CC0 | https://commons.wikimedia.org/wiki/File:Granola_and_yogurt_-_Bubbles_%2B_Brunch_2018_-_Sarah_Stierch_02.jpg
+banana-oat-protein-pancakes.jpg | CC0 | https://commons.wikimedia.org/wiki/File:American_Pancakes_with_banana_and_blueberries_-_Jonny%27s_Goring_Bar_%26_Kitchen_2026-01-29.jpg
+grilled-chicken-caesar-salad.jpg | CC0 | https://commons.wikimedia.org/wiki/File:Chicken_Caesar_salad_-_Auckland,_New_Zealand.jpg
+chicken-burrito-bowl.jpg | CC0 | https://commons.wikimedia.org/wiki/File:Burrito_rice_bowl.jpg
+mediterranean-quinoa-bowl.jpg | CC0 | https://commons.wikimedia.org/wiki/File:Salads_-_Bam%27s_Kitchen_2024-04-02.jpg
+spaghetti-bolognese.jpg | CC0 | https://commons.wikimedia.org/wiki/File:Spaghetti_bolognese_-_Enzo%27s_2026-04-21.jpg
+baked-salmon-asparagus.jpg | CC0 | https://commons.wikimedia.org/wiki/File:Grilled_salmon_and_asparagus_on_rice_-_Boston,_Massachusetts.jpg
+beef-broccoli-stir-fry.jpg | Public domain | https://commons.wikimedia.org/wiki/File:Szechwan_beef_broccoli_food_dinner.jpg
+thai-green-chicken-curry.jpg | CC0 | https://commons.wikimedia.org/wiki/File:Green_curry_with_cauliflowers,_seasonal_vegetables,_bamboo_shoots,_and_chili_crisp_-_San_Francisco,_CA.jpg
