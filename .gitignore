@@ -27,6 +27,3 @@ Thumbs.db
 # Secrets / local data
 /storage/app/firebase-credentials.json
 *.sql
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
